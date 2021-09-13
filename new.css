@@ -1,0 +1,6 @@
+.bg-image {
+background-image: url("AKTU One View_files\bg-01.jpg");
+filter: blur(8px);
+background-position: center;
+background-size: cover;
+}
